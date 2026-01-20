@@ -1,5 +1,7 @@
 {
-   "binned_scaffold_counts" : [
+   "assembly" : 244509785,
+   "GC" : 44.15,
+   "binned_contig_counts" : [
       1,
       1,
       1,
@@ -1000,9 +1002,6 @@
       168,
       183,
       202
-   ],
-   "contigs" : [
-      15261996
    ],
    "binned_Ns" : [
       0,
@@ -3008,11 +3007,11 @@
       15133,
       5586
    ],
-   "scaffolds" : [
+   "ATGC" : 244509785,
+   "contig_count" : 202,
+   "contigs" : [
       15261996
    ],
-   "GC" : 44.15,
-   "N" : 0,
    "scaffold_count" : 202,
    "binned_GCs" : [
       44.6067645495072,
@@ -4016,9 +4015,6 @@
       52.6240235573187,
       54.5499161588483
    ],
-   "contig_count" : 202,
-   "assembly" : 244509785,
-   "ATGC" : 244509785,
    "binned_scaffold_lengths" : [
       15261996,
       15261996,
@@ -5021,7 +5017,7 @@
       15133,
       5586
    ],
-   "binned_contig_counts" : [
+   "binned_scaffold_counts" : [
       1,
       1,
       1,
@@ -6022,6 +6018,10 @@
       168,
       183,
       202
-   ]
+   ],
+   "scaffolds" : [
+      15261996
+   ],
+   "N" : 0
 }
 
