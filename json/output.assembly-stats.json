@@ -4,16 +4,11 @@
       15261996
    ],
    "busco" : {
-      "Contigs_N50" : 10964147,
-      "Number_of_scaffolds" : 202,
-      "Fragmented" : 3.1,
-      "Single_copy" : 84.6,
-      "Missing" : 11.3,
-      "Complete" : 85.6,
-      "Number_of_contigs" : 202,
-      "Multi_copy" : 1,
-      "n" : 954,
-      "Scaffold_N50" : 10964147
+    "C": 85.6,
+    "D": 1.0,
+    "F": 3.1,
+    "M": 11.3,
+    "n": 954
    },
    "binned_scaffold_counts" : [
       1,
